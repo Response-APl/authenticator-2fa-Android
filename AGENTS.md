@@ -8,7 +8,7 @@ Guidance for code agents working on Authenticator - 2FA.
 - This repository is the Android adaptation of `VastBlast/authenticator-2fa`. Besides desktop windows, the UI must work on small touch viewports.
 - Product name: `Authenticator - 2FA`.
 - Extension `short_name`: must stay within the package limit of 12 characters per locale.
-- Homepage metadata: `https://github.com/ErlangShen-AI/authenticator-2fa-Android`.
+- Homepage metadata: `https://github.com/Response-APl/authenticator-2fa-Android`.
 
 ## Development Rules
 
