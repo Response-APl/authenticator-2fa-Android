@@ -28,7 +28,7 @@
   {/if}
   <a
     class="btn btn-ghost btn-sm shrink-0 px-2"
-    href="https://github.com/ErlangShen-AI/authenticator-2fa-Android"
+    href="https://github.com/Response-APl/authenticator-2fa-Android"
     target="_blank"
     rel="noopener noreferrer"
     aria-label={tr('sourceCode')}
